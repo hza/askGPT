@@ -4,6 +4,8 @@ This project implements a GPT (Generative Pre-trained Transformer) model using a
 
 The goal is to determine the minimum amount of training data required to achieve effective results with a minimal dataset.
 
+Spoiler: the model occasionally produces answers, but results can vary.
+
 ## Nano Dataset
 
 The nano dataset consists of simple sentences about capitals and countries, designed for quick experimentation and testing.
